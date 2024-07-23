@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile. I'm Nishanth S, a passionate individual with a keen interest in Networking and Full-stack Development.
 <!--
 **Nishanth-Emu/Nishanth-Emu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Technologies and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img width="50" height="50" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+
