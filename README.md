@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile. I'm Nishanth S, a passionate individual with a keen interest in Networking and Full-stack Development.
+Welcome to my GitHub profile. I'm Nishanth S, a passionate individual with a keen interest in Networking, Full-stack Development and Neural Networks.
 <!--
 **Nishanth-Emu/Nishanth-Emu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
